@@ -57,7 +57,7 @@
 	<slot id="31" x="0" y="-2" faceup="0" layer="4" />
 	<slot id="32" x="3" y="-2" faceup="0" layer="4" />
 	<slot id="33" x="6"  y="-2" faceup="0" layer="4" />
-	<slot id="34" x="9"  y="-2" faceup="0" layer="4" />
+	<slot id="34" x="9"  y="-2" faceup="0" layer="4" hiddenby />
 	
 
 	
